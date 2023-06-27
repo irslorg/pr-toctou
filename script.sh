@@ -1,4 +1,3 @@
 #!/bin/bash
 
-echo This is malicious2
-
+echo This is a script with legitimate content
